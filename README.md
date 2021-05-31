@@ -1,3 +1,4 @@
+Note: only works on <a href="http://htql.ctu.edu.vn/"> CTU</a> website
 # Introduction
 
 ## Environment and download
@@ -7,8 +8,9 @@ git clone https://github.com/minhkhoablieu/print-scoreboard-ctu.git && cd print-
 ```
 ## Quick use
 
-```shell
+```shell  
 python3 scoreboard.py
 ```
 ### Result 
-This code will create an html file containing your scoreboard which you can open it up with in your browser.
+This code will create an html file containing your scoreboard which you can open it up with in your browser. 
+
